@@ -1,0 +1,23 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#g)" />
+
+  <text x="50%" y="45%" text-anchor="middle"
+        font-size="42" fill="#ffffff"
+        font-family="Segoe UI, Helvetica">
+    Engineering systems that scale
+  </text>
+
+  <text x="50%" y="60%" text-anchor="middle"
+        font-size="18" fill="#cfd8dc"
+        font-family="Segoe UI, Helvetica">
+    Software · Cloud · Data · Product
+  </text>
+</svg>
