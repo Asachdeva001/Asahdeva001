@@ -29,4 +29,4 @@ jobs:
           git push
         env:
           # Use the PAT you created in Step 1 to allow pushing to the repo
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
