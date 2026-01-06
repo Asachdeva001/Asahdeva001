@@ -75,11 +75,11 @@ Data Structures · Algorithms · OOP · System Design
 ## Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="My GitHub Metric" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asachdeva001" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asachdeva001" />
+  <img src="./github-metrics.svg" alt="My GitHub Metric" />
 </p>
 
 ---
