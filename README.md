@@ -15,15 +15,11 @@
   <a href="mailto:ashisach001@gmail.com">Email</a>
 </p>
 
----
-
 ## Overview
 
 I am a Computer Science undergraduate at **Punjab Engineering College, Chandigarh**, focused on building **reliable, scalable, and performance-driven software systems**.
 
 My work spans **full-stack engineering, cloud-native architectures, and data-informed product development**, with an emphasis on clean abstractions, measurable impact, and long-term maintainability.
-
----
 
 <img src="assets/motion-divider.svg" />
 
@@ -45,8 +41,6 @@ My work spans **full-stack engineering, cloud-native architectures, and data-inf
 - Reduced design iteration cycles by **18%** via improved UI precision
 - Actively contributed to code reviews and refactoring initiatives
 
----
-
 <img src="assets/motion-divider.svg" />
 
 ## Flagship Projects
@@ -60,8 +54,6 @@ My work spans **full-stack engineering, cloud-native architectures, and data-inf
 - Built a real-time notes and task management system with Firebase synchronization
 - Achieved sub-800ms load times with persistent cross-session data integrity
 - Designed for responsive, cross-platform usage using Material-UI
-
----
 
 <img src="assets/motion-divider.svg" />
 
@@ -82,8 +74,6 @@ GCP · AWS (Cloud Practitioner) · Docker · GitHub Actions
 **CS Fundamentals**  
 Data Structures · Algorithms · OOP · System Design
 
----
-
 <img src="assets/motion-divider.svg" />
 
 ## Engineering Philosophy
@@ -95,8 +85,6 @@ I optimize for:
 - Long-term product and engineering value
 
 More details → [philosophy.md](philosophy.md)
-
----
 
 ## Activity
 
