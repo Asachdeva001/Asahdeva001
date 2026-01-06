@@ -1,0 +1,7 @@
+<svg viewBox="0 0 1200 20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="1200" y2="10" stroke="#2c5364" stroke-width="2">
+    <animate attributeName="stroke-dasharray"
+             from="0,1200" to="1200,0"
+             dur="2s" repeatCount="indefinite" />
+  </line>
+</svg>
