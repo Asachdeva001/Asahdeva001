@@ -75,7 +75,7 @@ Data Structures · Algorithms · OOP · System Design
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asachdeva001&show_icons=true&hide_title=true&hide_rank=true" />
+  <img src="./profile-stats.svg" alt="My GitHub Stats" />
 </p>
 
 <p align="center">
