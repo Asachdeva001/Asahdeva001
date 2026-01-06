@@ -9,6 +9,8 @@
   <a href="mailto:ashisach001@gmail.com">Email</a>
 </p>
 
+<img src="assets/motion-divider.svg" />
+
 ## Overview
 
 Computer Science undergraduate at **Punjab Engineering College, Chandigarh**, focused on building **scalable, reliable, and performance-driven software systems**.
@@ -25,10 +27,10 @@ Experienced across **full-stack development, cloud-native infrastructure, and da
 - Implemented secure **SSO and email/password authentication flows**
 - Led CI/CD integration using **GitHub Actions**, reducing release cycles by **25%**
 
-### Web Developer — E-Summit’25 (PEC)
-- Built and deployed a high-traffic platform supporting **800+ users**
-- Achieved **99.9% uptime** with sub-1.2s load time under peak traffic
-- Improved user engagement by **25%** via navigation and UX redesign
+### Web Developer — Freelance
+- Designed and delivered multiple web solutions across domains including **healthcare, social welfare, and community-focused platforms**
+- Built scalable, high-performance applications with **99.9% uptime** and **sub-0.8s load times**
+- Improved user engagement by **25%** through UX optimization, accessibility improvements, and performance tuning
 
 ### Frontend Developer Intern — WebinOrbit
 - Developed analytics dashboards using **React and TailwindCSS**
@@ -37,7 +39,7 @@ Experienced across **full-stack development, cloud-native infrastructure, and da
 
 <img src="assets/motion-divider.svg" />
 
-## Selected Projects
+## Projects
 
 ### Mental Health AI Companion
 - Built an AI-driven conversational system to infer emotional and stress signals
@@ -67,17 +69,6 @@ GCP · AWS (Cloud Practitioner) · Docker · GitHub Actions
 
 **Core CS**  
 Data Structures · Algorithms · OOP · System Design
-
-<img src="assets/motion-divider.svg" />
-
-## Engineering Philosophy
-
-- Optimize for clarity and maintainability
-- Design systems to evolve without friction
-- Measure outcomes, not activity
-- Prefer simplicity that scales
-
-More → [philosophy.md](philosophy.md)
 
 <img src="assets/motion-divider.svg" />
 
