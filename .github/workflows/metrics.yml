@@ -19,14 +19,14 @@ jobs:
         with:
           card: stats
           options: username=Asachdeva001&show_icons=true&hide_title=true&hide_rank=true
-          path: github-metrics.svg
+          path: assets/github-metrics.svg
           token: ${{ secrets.GH_TOKEN }} # Uses your custom secret name
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-metrics.svg
+          git add assets/github-metrics.svg
           git commit -m "Update github-metrics.svg" || exit 0
           git push
         env:
