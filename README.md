@@ -53,8 +53,9 @@ Experienced across **full-stack development, cloud-native infrastructure, and da
 
 <img src="assets/motion-divider.svg" />
 
+## Tech Foundation
+
 <p align="center">
-  ## Tech Foundation
   <img src="assets/tech-stack.svg" />
 </p>
 
