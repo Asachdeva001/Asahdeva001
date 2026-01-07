@@ -1,0 +1,117 @@
+<svg viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg {
+        fill: #020617;
+      }
+
+      .card {
+        fill: #0f172a;
+        stroke: #1e293b;
+        stroke-width: 2;
+        rx: 18;
+      }
+
+      .title {
+        fill: #f8fafc;
+        font-family: Segoe UI, Helvetica, Arial, sans-serif;
+        font-size: 24;
+        font-weight: 600;
+      }
+
+      .text {
+        fill: #cbd5f5;
+        font-family: Segoe UI, Helvetica, Arial, sans-serif;
+        font-size: 16;
+      }
+
+      .bold {
+        fill: #e5e7eb;
+        font-weight: 600;
+      }
+
+      .muted {
+        fill: #94a3b8;
+        font-size: 15;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="500" class="bg"/>
+
+  <!-- ================= OVERVIEW CARD ================= -->
+  <rect x="80" y="60" width="460" height="380" class="card"/>
+
+  <text x="110" y="105" class="title">Overview</text>
+
+  <text x="110" y="145" class="text">
+    Computer Science undergraduate at
+  </text>
+  <text x="110" y="170" class="text bold">
+    Punjab Engineering College, Chandigarh,
+  </text>
+  <text x="110" y="195" class="text">
+    focused on building scalable, reliable,
+  </text>
+  <text x="110" y="220" class="text">
+    and performance-driven software systems.
+  </text>
+
+  <text x="110" y="260" class="text">
+    Experienced across full-stack development,
+  </text>
+  <text x="110" y="285" class="text">
+    cloud-native infrastructure, and
+  </text>
+  <text x="110" y="310" class="text">
+    data-informed products, with strong
+  </text>
+  <text x="110" y="335" class="text">
+    emphasis on engineering fundamentals,
+  </text>
+  <text x="110" y="360" class="text">
+    clean architecture, and measurable outcomes.
+  </text>
+
+  <!-- ================= EXPERIENCE CARD ================= -->
+  <rect x="660" y="60" width="460" height="380" class="card"/>
+
+  <text x="690" y="105" class="title">Experience</text>
+
+  <!-- Growero -->
+  <text x="690" y="145" class="text bold">
+    Full Stack Web Developer Intern — Growero.io
+  </text>
+  <text x="690" y="170" class="text">
+    • Optimized async APIs and frontend
+  </text>
+  <text x="690" y="195" class="text">
+      performance, reducing load time by 40%
+  </text>
+  <text x="690" y="220" class="text">
+    • Built secure authentication flows and
+  </text>
+  <text x="690" y="245" class="text">
+      led CI/CD automation (25% faster releases)
+  </text>
+
+  <!-- Divider -->
+  <line x1="690" y1="270" x2="1090" y2="270"
+        stroke="#334155" stroke-width="1"/>
+
+  <!-- Freelance -->
+  <text x="690" y="305" class="text bold">
+    Web Developer — Freelance
+  </text>
+  <text x="690" y="330" class="text">
+    • Delivered scalable web solutions for
+  </text>
+  <text x="690" y="355" class="text">
+      healthcare, social-impact, and community
+  </text>
+  <text x="690" y="380" class="text">
+      platforms with high reliability
+  </text>
+
+</svg>
